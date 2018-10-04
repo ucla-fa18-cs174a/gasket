@@ -1,1 +1,1 @@
-# a0-scttfrdmn
+# 2D Sierpinski Gasket
